@@ -21,33 +21,16 @@ function Footer() {
           <h2 className="title-font font-bold text-white tracking-widest text-md mb-3">CATEGORIES</h2>
           <nav className="list-none mb-10">
             <li>
-              <a className="text-white hover:text-red-300" href="#">First Link</a>
+              <a className="text-white hover:text-red-300" href="/">First Link</a>
             </li>
             <li>
-              <a className="text-white hover:text-red-300" href="#">Second Link</a>
+              <a className="text-white hover:text-red-300" href="/">Second Link</a>
             </li>
             <li>
-              <a className="text-white hover:text-red-300" href="#">Third Link</a>
+              <a className="text-white hover:text-red-300" href="/">Third Link</a>
             </li>
             <li>
-              <a className="text-white hover:text-red-300" href="#">Fourth Link</a>
-            </li>
-          </nav>
-        </div>
-        <div className="lg:w-1/4 md:w-1/2 w-full px-4">
-          <h2 className="title-font font-bold text-white tracking-widest text-md mb-3">CATEGORIES</h2>
-          <nav className="list-none mb-10">
-            <li>
-              <a className="text-white hover:text-red-300" href="#">First Link</a>
-            </li>
-            <li>
-              <a className="text-white hover:text-red-300" href="#">Second Link</a>
-            </li>
-            <li>
-              <a className="text-white hover:text-red-300" href="#">Third Link</a>
-            </li>
-            <li>
-              <a className="text-white hover:text-red-300" href="#">Fourth Link</a>
+              <a className="text-white hover:text-red-300" href="/">Fourth Link</a>
             </li>
           </nav>
         </div>
@@ -55,16 +38,16 @@ function Footer() {
           <h2 className="title-font font-bold text-white tracking-widest text-md mb-3">CATEGORIES</h2>
           <nav className="list-none mb-10">
             <li>
-              <a className="text-white hover:text-red-300" href="#">First Link</a>
+              <a className="text-white hover:text-red-300" href="/">First Link</a>
             </li>
             <li>
-              <a className="text-white hover:text-red-300" href="#">Second Link</a>
+              <a className="text-white hover:text-red-300" href="/">Second Link</a>
             </li>
             <li>
-              <a className="text-white hover:text-red-300" href="#">Third Link</a>
+              <a className="text-white hover:text-red-300" href="/">Third Link</a>
             </li>
             <li>
-              <a className="text-white hover:text-red-300" href="#">Fourth Link</a>
+              <a className="text-white hover:text-red-300" href="/">Fourth Link</a>
             </li>
           </nav>
         </div>
@@ -72,16 +55,33 @@ function Footer() {
           <h2 className="title-font font-bold text-white tracking-widest text-md mb-3">CATEGORIES</h2>
           <nav className="list-none mb-10">
             <li>
-              <a className="text-white hover:text-red-300" href="#">First Link</a>
+              <a className="text-white hover:text-red-300" href="/">First Link</a>
             </li>
             <li>
-              <a className="text-white hover:text-red-300" href="#">Second Link</a>
+              <a className="text-white hover:text-red-300" href="/">Second Link</a>
             </li>
             <li>
-              <a className="text-white hover:text-red-300" href="#">Third Link</a>
+              <a className="text-white hover:text-red-300" href="/">Third Link</a>
             </li>
             <li>
-              <a className="text-white hover:text-red-300" href="#">Fourth Link</a>
+              <a className="text-white hover:text-red-300" href="/">Fourth Link</a>
+            </li>
+          </nav>
+        </div>
+        <div className="lg:w-1/4 md:w-1/2 w-full px-4">
+          <h2 className="title-font font-bold text-white tracking-widest text-md mb-3">CATEGORIES</h2>
+          <nav className="list-none mb-10">
+            <li>
+              <a className="text-white hover:text-red-300" href="/">First Link</a>
+            </li>
+            <li>
+              <a className="text-white hover:text-red-300" href="/">Second Link</a>
+            </li>
+            <li>
+              <a className="text-white hover:text-red-300" href="/">Third Link</a>
+            </li>
+            <li>
+              <a className="text-white hover:text-red-300" href="/">Fourth Link</a>
             </li>
           </nav>
         </div>

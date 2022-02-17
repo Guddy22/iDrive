@@ -1,7 +1,6 @@
 import './App.css';
 import Footer from './components/Footer';
 import Main from './components/Main'
-import Myvideo from './idrive3.mp4'
 //import BackgroundVideo from './components/BackgroundVideo';
 
 function App() {
