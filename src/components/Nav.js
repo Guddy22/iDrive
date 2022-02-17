@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import carLogo from '../sedan-car-front-1.png'
 
 export default function Nav() {
 
@@ -11,15 +12,17 @@ export default function Nav() {
 
 
   return (
-        <div>
+        <div className='w-full md:w-full md:bg-black md:opacity-50'>
             
-        <div className='w-full p-4 items-center flex justify-between md:w-5/6 mx-auto'>
-              <div>
-                  <span className='text-lg text-black md:font-bold text-3xl text-white'>iDrive Driving School</span>
+        <div className='w-full p-4 items-center flex justify-between md:w-5/6 mx-auto flex justify-between items-center'>
+
+              <div className='flex items-center'>
+                <img src={carLogo} className="h-8 w-8 mr-2 md:w-20 h-20"/>
+                <span className='text-lg text-white md:font-bold text-3xl text-white'>iDrive Driving School</span>
               </div>
                 
               
-              <ul className='flex hidden md:flex justify between md:block text-black'>
+              <ul className='flex hidden md:flex justify between md:block text-white'>
                   <li className='px-4 py-4 cursor-pointer font-[poppins]'>Home</li>
                   <li className='px-4 py-4 cursor-pointer font-[poppins]'>Services</li>
                   <li className='px-4 py-4 cursor-pointer font-[poppins]'> About Us</li>

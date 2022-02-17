@@ -7,7 +7,7 @@ function App() {
   return (
     <div className='w-full font-[Poppins]'>
     {/* <header className="relative flex h-screen overflow-hidden"> */}
-      <Main/>
+    <Main/>
       {/* <video
         autoPlay
         loop
